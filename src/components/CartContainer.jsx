@@ -1,5 +1,4 @@
 import CartItem from "./CartItem";
-import { clearCart } from "../features/cart/cartSlice";
 import { useSelector, useDispatch } from "react-redux";
 import { openModal } from "../features/cart/modalSlice";
 
